@@ -36,5 +36,5 @@ age: 12
 gender: female
 
 
-and also at any style as you wish and you can add any other feature.
+and also add any style as you wish and you can add any other feature to it.
 
