@@ -2,6 +2,22 @@ body {
     padding: 30px;
 }
 
+.demo {
+    font-family: 'Merienda One', cursive;
+}
+
+.github {
+    color: hotpink;
+    text-decoration: none;
+    font-family: 'Merienda One', cursive;
+}
+  
+.github:hover,
+.github:active {
+    color: red;
+    text-decoration: none;
+}
+
 .javascript {
     color: palevioletred;
     text-align: center;
